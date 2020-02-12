@@ -1,0 +1,11 @@
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\bin\Debug\netcoreapp2.1\BMI_Calc.deps.json
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\bin\Debug\netcoreapp2.1\BMI_Calc.runtimeconfig.json
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\bin\Debug\netcoreapp2.1\BMI_Calc.runtimeconfig.dev.json
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\bin\Debug\netcoreapp2.1\BMI_Calc.dll
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\bin\Debug\netcoreapp2.1\BMI_Calc.pdb
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\obj\Debug\netcoreapp2.1\BMI_Calc.csprojAssemblyReference.cache
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\obj\Debug\netcoreapp2.1\BMI_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\obj\Debug\netcoreapp2.1\BMI_Calc.AssemblyInfoInputs.cache
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\obj\Debug\netcoreapp2.1\BMI_Calc.AssemblyInfo.cs
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\obj\Debug\netcoreapp2.1\BMI_Calc.dll
+C:\Users\Daveena.Cooper\source\repos\BMI_Calc\BMI_Calc\obj\Debug\netcoreapp2.1\BMI_Calc.pdb
